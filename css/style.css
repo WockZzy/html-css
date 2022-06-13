@@ -1,0 +1,114 @@
+.logo
+{
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+    position: absolute;
+    left: 5%;
+    top: 60px;
+}
+body
+{
+    line-height: 1.5;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+*
+{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.Home
+{
+    position: absolute;
+    left: 15%;
+    top: 60px;
+    display: inline-block;
+    margin: 4px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+.Class
+{
+    position: absolute;
+    left: 25%;
+    top: 60px;
+    display: inline-block;
+    margin: 4px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+.Tours
+{
+    position: absolute;
+    left: 35%;
+    top: 60px;
+    display: inline-block;
+    margin: 4px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+.Maps
+{
+    position: absolute;
+    left: 45%;
+    top: 60px;
+    display: inline-block;
+    margin: 4px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+.Login
+{
+    position: absolute;
+    right: 10%;
+    top: 60px;
+    display: inline-block;
+    margin: 4px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+.home-img
+{
+    position: absolute;
+    left: 5%;
+    top: 290px;
+    display: inline-block;
+    margin: 4px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+.home-img2
+{
+    position: absolute;
+    left: 5%;
+    top: 140px;
+    display: inline-block;
+    margin: 4px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+.home-img3
+{
+    position: absolute;
+    left: 5%;
+    top: 150px;
+    display: inline-block;
+    margin: 4px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+
+
+  
