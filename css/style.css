@@ -1,15 +1,25 @@
 .logo
 {
-    width: 100px;
-    height: 100px;
-    margin-top: 10px;
-    margin-left: 10px;
     position: absolute;
-    left: 5%;
-    top: 60px;
+    left: 10%;
+    top: 44px;
+    display: inline-block;
+    margin: 4px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+:root
+{
+    --bg-black-900: #32455f;
+    --bg-black-100: #fdf9ff;
+    --bg-black-50: #e8dfec;
+    --text-black-900: #302e4d;
+    --text-black-700: #504e70;
 }
 body
 {
+    width: 1440px;
+    height: 8000px;
     line-height: 1.5;
     font-size: 16px;
     font-family: 'Poppins', sans-serif;
@@ -22,22 +32,57 @@ body
     text-decoration: none;
     box-sizing: border-box;
 }
+.home-info
+{
+    color: var(--bg-black-900);
+    position: absolute;
+    left: 5%;
+    top: 200px;
+    font-size: 40px;
+}
+.home-info1
+{
+    color: var(--bg-black-900);
+    position: absolute;
+    left: 5%;
+    top: 320px;
+    font-size: 20px;
+}
+.padd-15
+{
+    padding-left: 15px;
+    padding-right: 15px;
+}
 
+.home-info1::after
+{
+    content: '';
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    border-bottom: 3px solid var(--bg-black-900);
+    border-left: 3px solid var(--bg-black-900);
+    bottom: -10px;
+    left: 0;
+}
 .Home
 {
+    color: var(--bg-black-900);
     position: absolute;
-    left: 15%;
+    left: 25%;
     top: 60px;
     display: inline-block;
     margin: 4px;
     cursor: pointer;
     transition-duration: 0.4s;
+    font-family: 'Poppins', sans-serif;
 }
 
 .Class
 {
+    color: var(--bg-black-900);
     position: absolute;
-    left: 25%;
+    left: 31%;
     top: 60px;
     display: inline-block;
     margin: 4px;
@@ -47,8 +92,9 @@ body
 
 .Tours
 {
+    color: var(--bg-black-900);
     position: absolute;
-    left: 35%;
+    left: 37%;
     top: 60px;
     display: inline-block;
     margin: 4px;
@@ -58,8 +104,9 @@ body
 
 .Maps
 {
+    color: var(--bg-black-900);
     position: absolute;
-    left: 45%;
+    left: 43%;
     top: 60px;
     display: inline-block;
     margin: 4px;
@@ -69,8 +116,9 @@ body
 
 .Login
 {
+    color: var(--bg-black-900);
     position: absolute;
-    right: 10%;
+    right: 25%;
     top: 60px;
     display: inline-block;
     margin: 4px;
@@ -80,9 +128,11 @@ body
 
 .home-img
 {
+    width: 1440px;
+    height: 900px;
     position: absolute;
     left: 5%;
-    top: 290px;
+    top: 140px;
     display: inline-block;
     margin: 4px;
     cursor: pointer;
@@ -92,7 +142,7 @@ body
 {
     position: absolute;
     left: 5%;
-    top: 140px;
+    top: 0px;
     display: inline-block;
     margin: 4px;
     cursor: pointer;
@@ -102,12 +152,13 @@ body
 {
     position: absolute;
     left: 5%;
-    top: 150px;
+    top: 0px;
     display: inline-block;
     margin: 4px;
     cursor: pointer;
     transition-duration: 0.4s;
 }
+
 
 
 
