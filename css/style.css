@@ -522,3 +522,297 @@ body
     -o-background-size: cover;
     background-size: cover;
   }
+  .group-5 {
+    height: 1008px;
+    margin: 38px 0 0;
+    overflow: hidden;
+    position: relative;
+    width: 100%; /* 1440px / 1440px = 100% */
+    z-index: 126;
+  }
+  .text-5 {
+    left: 50%;
+    position: absolute;
+    top: 58px;
+    width: 1169px;
+    margin-left: -626px;
+  }
+  .title-5 {
+    color: #564b67;
+    font-family: 'Bebas Neue', display;
+    font-size: 4.6875rem; /* 75px / 16px = 4.6875rem */
+    letter-spacing: 0;
+    line-height: 75px;
+    text-transform: uppercase;
+  }
+  .image-4 {
+    margin: 62px 34px 0 91px;
+    position: relative;
+  }
+  .place-your-image-here-double-click-to-edit {
+    float: left;
+    margin: 5px 0 0;
+    border-radius: 190px;
+  }
+  .place-your-image-here-double-click-to-edit-2 {
+    float: left;
+    margin: 1px 0 0 104px;
+    border-radius: 190px;
+  }
+  .place-your-image-here-double-click-to-edit-3 {
+    float: left;
+    margin: 0 0 0 101px;
+    border-radius: 190px;
+  }
+  .row-3 {
+    left: 59.5px;
+    margin: 38px auto 0;
+    position: relative;
+    width: 1050px;
+  }
+  .mountain {
+    float: left;
+    left: -20px;
+    margin: 1px 0 0;
+    position: relative;
+    width: 290px;
+  }
+  .title-6 {
+    margin: 0 0 0 4px;
+    font-family: 'Bebas Neue', display;
+    font-size: 2.604167rem; /* 41.67px / 16px = 2.604375rem */
+    letter-spacing: 0.05em;
+  }
+  .body-text-6 {
+    margin: 24px 0 0;
+    font-size: 1.302083rem; /* 20.83px / 16px = 1.301875rem */
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 1.2;
+  }
+  .line-4 {
+    height: 2px;
+    margin: 28px 0 0;
+    position: relative;
+    width: 290px;
+    border: 1px solid #745a82; /*stroke*/
+  }
+  .location {
+    margin: 21px 0 0 4px;
+    font-weight: bold;
+  }
+  .national-park {
+    left: -20px;
+    float: left;
+    margin: 2px 0 0 92px;
+    position: relative;
+    width: 290px;
+  }
+  .title-7 {
+    font-family: 'Bebas Neue', display;
+    font-size: 2.604167rem; /* 41.67px / 16px = 2.604375rem */
+    letter-spacing: 0.05em;
+  }
+  .body-text-7 {
+    margin: 19px 0 0;
+    font-size: 1.302083rem; /* 20.83px / 16px = 1.301875rem */
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 1.2;
+  }
+  .line-5 {
+    height: 2px;
+    margin: 29px 0 0;
+    position: relative;
+    width: 290px;
+    border: 1px solid #745a82; /*stroke*/
+  }
+  .location-2 {
+    margin: 19px 0 0;
+    font-weight: bold;
+  }
+  .canyon {
+    left: -20px;
+    float: left;
+    margin: 0 0 0 88px;
+    position: relative;
+    width: 290px;
+  }
+  .title-8 {
+    margin: 0 0 0 5px;
+    font-family: 'Bebas Neue', display;
+    font-size: 2.604167rem; /* 41.67px / 16px = 2.604375rem */
+    letter-spacing: 0.05em;
+  }
+  .body-text-8 {
+    margin: 24px 0 0 4px;
+    font-size: 1.302083rem; /* 20.83px / 16px = 1.301875rem */
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 1.2;
+  }
+  .line-6 {
+    height: 2px;
+    margin: 29px 0 0;
+    position: relative;
+    width: 290px;
+    border: 1px solid #745a82; /*stroke*/
+  }
+  .location-3 {
+    margin: 19px 0 0 5px;
+    font-weight: bold;
+  }
+  .design-6 {
+    left: 0;
+    padding: 31px 0 97px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background: url(images/shape_21.png) no-repeat center 0;
+    background-position: center top;
+  }
+  .l-constrained-3 {
+    margin: 0 auto;
+    padding: 0 64px;
+    position: relative;
+    width: 1440px;
+  }
+  .shape-13 {
+    display: block;
+    margin: 0 auto;
+    right: 240px;
+  }
+  .shape-14 {
+    display: block;
+    margin: 128px 0 0;
+    position: relative;
+  }
+  .row-2 {
+    margin: 308px 121px 0;
+    position: relative;
+  }
+  .button-2 {   
+    margin: 350px auto 0;
+    min-height: 33px;
+    position: relative;
+    width: 189px;
+    -webkit-border-radius: 16.6px/16.5px 16.5px 16.51px 16.51px;
+    -moz-border-radius: 16.6px/16.5px 16.5px 16.51px 16.51px;
+    border-radius: 16.6px/16.5px 16.5px 16.51px 16.51px;
+    background: #564b67;
+    color: #fbfbf5;
+    font-variant: small-caps;
+    font-weight: bold;
+    line-height: 33px;
+    text-align: center;
+  }
+  .image-5 {
+    margin: -8px 0 0;
+    padding: 14px 0 0;
+    position: relative;
+    width: 100%; /* 1440px / 1440px = 100% */
+    z-index: 106;
+    background: url(/images/place_your_image_here_dou_3.jpg) no-repeat center 0;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .design-7 {
+    padding: 107px 0 87px;
+    position: relative;
+    background: rgba(50, 69, 95, 0.74);
+    margin-top: -25px;
+  }
+  .l-constrained-2 {
+    margin: 0 auto;
+    padding: 0 73px;
+    position: relative;
+    width: 1440px;
+  }
+  .shape-18 {
+    display: block;
+    left: 629.5px;
+    margin: 0 auto;
+    position: relative;
+  }
+  .row-16 {
+    margin: -13px auto 0;
+    position: relative;
+    right: 7px;
+    width: 1252px;
+  }
+  .col-35 {
+    float: left;
+    margin: 205px 0 0;
+    position: relative;
+    width: 404px;
+  }
+  .date-3 {
+    margin: 0 auto;
+    width: 400px;
+    color: #ffffff;
+    font-family: 'Bebas Neue', display;
+    font-size: 3.125rem;
+    text-transform: uppercase;
+  }
+  .shape-19 {
+    height: 9px;
+    margin: 20px 0 0 4px;
+    position: relative;
+    width: 95px;
+    background: #fbfbf5;
+  }
+  .button-3 {
+    margin: 45px 0 0;
+    min-height: 33px;
+    position: relative;
+    width: 189px;
+    -webkit-border-radius: 16.6px/16.5px 16.5px 16.51px 16.51px;
+    -moz-border-radius: 16.6px/16.5px 16.5px 16.51px 16.51px;
+    border-radius: 16.6px/16.5px 16.5px 16.51px 16.51px;
+    background: #fbfbf5;
+    font-variant: small-caps;
+    font-weight: bold;
+    line-height: 33px;
+    text-align: center;
+  }
+  .col-36 {
+    float: right;
+    position: relative;
+    width: 716px;
+    z-index: 0;
+  }
+  .title-9 {
+    margin: 0 auto;
+    position: relative;
+    width: 712px;
+    z-index: 121;
+    color: #ffffff;
+    font-family: 'Bebas Neue', display;
+    font-size: 6.25rem;
+    line-height: 100px;
+    text-align: right;
+    text-transform: uppercase;
+  }
+  .subtitle-3 {
+    left: 149px;
+    margin: 14px auto 0;
+    position: relative;
+    width: 418px;
+    z-index: 120;
+    color: #ffffff;
+    font-family: 'Bebas Neue', display;
+    font-size: 3.125rem;
+    line-height: 50px;
+    text-align: right;
+    text-transform: uppercase;
+  }
+  .shape-20 {
+    display: block;
+    left: 96px;
+    margin: -8px auto 0;
+    position: relative;
+    z-index: 110;
+  }
